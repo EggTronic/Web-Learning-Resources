@@ -7,12 +7,19 @@
   4. websocket
   5. 跨域
 
+- 浏览器：
+  1. 原理
+  2. 从解析到渲染的过程
+
 - Javascript:
   1. [promise实现](https://juejin.im/post/5b83cb5ae51d4538cc3ec354)
   2. [async/await实现](https://juejin.im/post/5e79e841f265da5726612b6e)
   3. [设计模式](https://juejin.im/entry/58c280b1da2f600d8725b887)
   4. service worker: 寻找资料中
   5. web worker: 寻找资料中
+  6. 原型链:
+  7. 继承:
+  8. 事件驱动:
 
 - React/Vue/Electron:
   1. [React源码解析](https://react.jokcy.me/)
