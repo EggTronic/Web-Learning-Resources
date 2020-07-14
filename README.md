@@ -1,11 +1,7 @@
 收集了一些前端开发的学习资料
 
-- HTTP: 寻找资料中
-  1. http
-  2. https
-  3. http2.0
-  4. websocket
-  5. 跨域
+- 计算机网络：
+  1. [66个知识点总结](https://juejin.im/post/5ee27de06fb9a047f7131eb2)
 
 - 浏览器：
   1. 原理
