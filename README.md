@@ -3,9 +3,10 @@
 - 计算机网络：
   1. [66个知识点总结](https://juejin.im/post/5ee27de06fb9a047f7131eb2)
 
-- 浏览器：
+- 浏览器/Web：
   1. 原理
   2. 从解析到渲染的过程
+  3. [性能优化](https://juejin.im/post/5a6941e1f265da3e33048429)
 
 - Javascript:
   1. [promise实现](https://juejin.im/post/5b83cb5ae51d4538cc3ec354)
