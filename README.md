@@ -39,3 +39,4 @@
   1. [redux实现](https://juejin.im/post/5c00cc19f265da612859d9d3)
   2. [immer实现](https://juejin.im/entry/5a7949fd51882528b63fdbde)
   3. [axios, koa, redux, vuex中间件实现](https://juejin.im/post/5e13ea6a6fb9a0482b297e8e)
+  4. [axios实现-核心部分](https://juejin.im/post/5e6b448651882549003d314a)
