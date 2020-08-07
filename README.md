@@ -7,6 +7,7 @@
   1. 原理
   2. 从解析到渲染的过程
   3. [性能优化](https://juejin.im/post/5a6941e1f265da3e33048429)
+  4. [DOM常用API](https://juejin.im/post/6844903604445249543)
 
 - Javascript:
   1. [promise实现](https://juejin.im/post/5b83cb5ae51d4538cc3ec354)
